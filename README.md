@@ -1,1 +1,2 @@
 # tester-wsb-podyplomowe
+Nieprawda
