@@ -1,0 +1,1 @@
+# tester-wsb-podyplomowe
